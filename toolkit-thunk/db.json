@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Taylor Lindgren",
+      "id": 3
+    },
+    {
+      "name": "Betty Ritchie",
+      "id": 4
+    },
+    {
+      "name": "Kent Bergstrom",
+      "id": 5
+    },
+    {
+      "name": "Diana Donnelly",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
