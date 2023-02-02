@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Wesley Mertz",
+      "id": 1
+    },
+    {
+      "name": "Cary Turcotte",
+      "id": 2
+    },
+    {
+      "name": "Noel Blanda",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Fantastic Steel Chips",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Plastic Shirt",
+      "id": 16
+    }
+  ],
+  "photos": []
+}
