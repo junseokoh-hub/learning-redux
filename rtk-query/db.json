@@ -11,6 +11,10 @@
     {
       "name": "Noel Blanda",
       "id": 3
+    },
+    {
+      "name": "Carol Dickinson III",
+      "id": 4
     }
   ],
   "albums": [
@@ -23,7 +27,78 @@
       "userId": 1,
       "title": "Fantastic Plastic Shirt",
       "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Plastic Ball",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Rubber Gloves",
+      "id": 18
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83642",
+      "id": 1
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=10276",
+      "id": 2
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=21679",
+      "id": 3
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=66803",
+      "id": 4
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84193",
+      "id": 5
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44280",
+      "id": 6
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42018",
+      "id": 7
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1260",
+      "id": 8
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=85503",
+      "id": 9
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=81281",
+      "id": 10
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61123",
+      "id": 11
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=57380",
+      "id": 12
+    }
+  ]
 }
